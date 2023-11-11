@@ -1,4 +1,4 @@
-# Hello World, I'm Paulo Devinky, be very welcome
+# Hi, I'm Paulo Devinky.
 
 <table>
   <a href="https://github.com/paulodevinky">
