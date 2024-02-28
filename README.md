@@ -18,3 +18,8 @@
 <div style="text-align: center;">
   <img src="https://www.icegif.com/wp-content/uploads/yumeko-jabami-icegif-10.gif" alt="Jabami Yumeko GIF">
 </div>
+
+<!-- Imagem estática adicionada -->
+<div style="text-align: center;">
+  <img src="https://tm.ibxk.com.br/2022/03/29/29075310522034.jpg" alt="Imagem Estática">
+</div>
