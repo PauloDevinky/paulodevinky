@@ -1,4 +1,4 @@
-# Hi, I'm Paulo Devinky.
+<!-- Hi, I'm Paulo Devinky. -->
 
 <table>
   <a href="https://github.com/paulodevinky">
@@ -12,4 +12,9 @@
 
 <div> 
   <a href="https://www.instagram.com/paulohayasaka/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+</div>
+
+<!-- GIF da Jabami Yumeko -->
+<div style="text-align: center;">
+  <img src="https://www.icegif.com/wp-content/uploads/yumeko-jabami-icegif-10.gif" alt="Jabami Yumeko GIF">
 </div>
