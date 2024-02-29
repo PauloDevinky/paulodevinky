@@ -6,13 +6,34 @@
 </div>
 
 <table>
-  <a href="https://github.com/paulodevinky">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulodevinky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodevinky&layout=compact&langs_count=6&theme=dark"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
-  <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
-  <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
-  <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+  <tr>
+    <td>
+      <a href="https://github.com/paulodevinky">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulodevinky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/paulodevinky">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulodevinky&layout=compact&langs_count=6&theme=dark"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/2x/vue-js.png" width="120" alt="Vue.js">
+    </td>
+    <td>
+      <img src="https://img.icons8.com/color/2x/html-5.png" width="120" alt="HTML5">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.icons8.com/color/2x/css3.png" width="120" alt="CSS3">
+    </td>
+    <td>
+      <img src="https://img.icons8.com/nolan/2x/javascript.png" width="120" alt="JavaScript">
+    </td>
+  </tr>
 </table>
 
 <div> 
