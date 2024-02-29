@@ -5,7 +5,7 @@
   <img src="https://tm.ibxk.com.br/2022/03/29/29075310522034.jpg" alt="Jabami Yumeko">
 </div>
 
-<table>
+<table style="background-color: black;">
   <tr>
     <td>
       <a href="https://github.com/paulodevinky">
